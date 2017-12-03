@@ -1,3 +1,11 @@
+%GB comments
+1A 100
+1B 100
+1C 100
+2. 100
+Overall 100
+
+
 %Inclass 20
 %In this folder you will find a .mat file with x and y data
 file = load('data.mat');
